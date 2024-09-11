@@ -5,3 +5,5 @@ Communication subspaces have recently been identified as a promising mechanism f
 
 ## Main results figure from ResNet Analysis
 ![Main Results Downsized](https://github.com/user-attachments/assets/be06c1c9-7216-4523-bbec-8a04be71d5e5)
+
+Figure 1. Top: mean alignment between activation-to-weight connections. Bottom: mean alignment for weight-to-weight connections across layers.
